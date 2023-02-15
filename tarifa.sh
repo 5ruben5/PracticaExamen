@@ -1,7 +1,7 @@
 #!/bin/bash
 
-echo "Introduce el número de llamadas que has realizado: "
-read num_llamadas
+read -p "Introduce el número de llamadas que has realizado: " num_llamadas
+ 
 
 if [ $num_llamadas -gt 50 ]
 then
