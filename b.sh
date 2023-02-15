@@ -1,7 +1,7 @@
 #!/bin/bash
-# Script para contar las lineas de un archivo
+# Calculando el número de lineas en el archivo notas.txt
 
-# contar el número de lineas
-lineas=$(wc -l < notas.txt)
+resultado=$(wc -l < notas.txt)
+resultadoFinal=$((resultado - 1))
 
-echo "El archivo notas.txt tiene $lineas matriculas"
+echo "El número de matriculas en el archivo notas.txt es: $resultadoFinal"
