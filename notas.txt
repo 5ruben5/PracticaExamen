@@ -1,0 +1,9 @@
+
+NOM ASIGNAR NOTA
+Pepe Sor 4
+Antonio FOL 5
+ana sor 8
+Pepe SEG 9
+Antonio WEB 8
+ana seg 4
+Antonio SEG 7
