@@ -1,0 +1,2 @@
+archivo que quiero que me ignore git
+
